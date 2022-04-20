@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Test0asa
 - 👀 I’m interested in Making roblox Scripts
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Lua & Python
 - 📫 How to reach me{Discord:Testoasa#6112}
 
 <!---
